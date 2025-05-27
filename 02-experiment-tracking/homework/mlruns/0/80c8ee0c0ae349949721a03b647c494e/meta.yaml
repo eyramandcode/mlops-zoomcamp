@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/80c8ee0c0ae349949721a03b647c494e/artifacts
+end_time: 1748315904238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80c8ee0c0ae349949721a03b647c494e
+run_name: judicious-snail-34
+run_uuid: 80c8ee0c0ae349949721a03b647c494e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748315892594
+status: 3
+tags: []
+user_id: codespace
