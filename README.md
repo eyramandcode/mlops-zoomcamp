@@ -1,6 +1,8 @@
 # Notes - MLOps Zoomcamp 2025
 
-This working repo contains my notes + work during the 2025 DataTalks Club MLOps Zoomcamp.
+This is a working repo containing my notes + demo work during the 2025 DataTalks Club MLOps Zoomcamp, so file/folder structure is undefined.
+
+Final project coming soon.
 
 ## About
 The running business case of the course is to create a ML model predicting the duration of NYC taxi rides.
