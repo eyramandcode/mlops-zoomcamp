@@ -1,6 +1,6 @@
 # Notes - MLOps Zoomcamp 2025
 
-This is a working repo containing my notes + demo work during the 2025 DataTalks Club MLOps Zoomcamp, so file/folder structure is undefined.
+This is the sandbox repo containing my notes + demo work during the 2025 DataTalks Club MLOps Zoomcamp, so file/folder structure is undefined.
 
 Final project coming soon.
 
