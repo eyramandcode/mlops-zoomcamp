@@ -15,6 +15,8 @@ The running business case of the course is to create a ML model predicting the d
 - [X] Dataset management
 - [X] ML experiment tracking with MLflow
 - [X] Model registration and management with MLflow
+    - [X] Local
+    - [X] Cloud
 - [ ] Orchestration + ML pipelines
 - [ ] Model deployment strategies
 - [ ] Model monitoring
